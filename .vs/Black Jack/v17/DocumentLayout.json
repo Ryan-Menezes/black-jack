@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ryan\\Downloads\\black-jack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69E18B72-D970-4304-9235-2B88A77E4D4D}|Black Jack\\Black Jack.csproj|C:\\Users\\Ryan\\Downloads\\black-jack\\black jack\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69E18B72-D970-4304-9235-2B88A77E4D4D}|Black Jack\\Black Jack.csproj|solutionrelative:black jack\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Ryan\\Downloads\\black-jack\\Black Jack\\Form1.cs",
+              "RelativeDocumentMoniker": "Black Jack\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ryan\\Downloads\\black-jack\\Black Jack\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Black Jack\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T17:31:00.603Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

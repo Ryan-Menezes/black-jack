@@ -1,0 +1,33 @@
+C:\Users\Akio\source\repos\Black Jack\Black Jack\obj\Debug\net8.0-windows\Black_Jack.Form1.resources
+C:\Users\Akio\source\repos\Black Jack\Black Jack\obj\Debug\net8.0-windows\Black Jack.csproj.GenerateResource.cache
+C:\Users\Akio\source\repos\Black Jack\Black Jack\obj\Debug\net8.0-windows\Black Jack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akio\source\repos\Black Jack\Black Jack\obj\Debug\net8.0-windows\Black Jack.AssemblyInfoInputs.cache
+C:\Users\Akio\source\repos\Black Jack\Black Jack\obj\Debug\net8.0-windows\Black Jack.AssemblyInfo.cs
+C:\Users\Akio\source\repos\Black Jack\Black Jack\obj\Debug\net8.0-windows\Black Jack.csproj.CoreCompileInputs.cache
+C:\Users\Akio\source\repos\Black Jack\Black Jack\bin\Debug\net8.0-windows\Black Jack.exe
+C:\Users\Akio\source\repos\Black Jack\Black Jack\bin\Debug\net8.0-windows\Black Jack.deps.json
+C:\Users\Akio\source\repos\Black Jack\Black Jack\bin\Debug\net8.0-windows\Black Jack.runtimeconfig.json
+C:\Users\Akio\source\repos\Black Jack\Black Jack\bin\Debug\net8.0-windows\Black Jack.dll
+C:\Users\Akio\source\repos\Black Jack\Black Jack\bin\Debug\net8.0-windows\Black Jack.pdb
+C:\Users\Akio\source\repos\Black Jack\Black Jack\obj\Debug\net8.0-windows\Black Jack.dll
+C:\Users\Akio\source\repos\Black Jack\Black Jack\obj\Debug\net8.0-windows\refint\Black Jack.dll
+C:\Users\Akio\source\repos\Black Jack\Black Jack\obj\Debug\net8.0-windows\Black Jack.pdb
+C:\Users\Akio\source\repos\Black Jack\Black Jack\obj\Debug\net8.0-windows\Black Jack.genruntimeconfig.cache
+C:\Users\Akio\source\repos\Black Jack\Black Jack\obj\Debug\net8.0-windows\ref\Black Jack.dll
+C:\Users\Ryan\Downloads\black-jack\Black Jack\bin\Debug\net8.0-windows\Black Jack.exe
+C:\Users\Ryan\Downloads\black-jack\Black Jack\bin\Debug\net8.0-windows\Black Jack.deps.json
+C:\Users\Ryan\Downloads\black-jack\Black Jack\bin\Debug\net8.0-windows\Black Jack.runtimeconfig.json
+C:\Users\Ryan\Downloads\black-jack\Black Jack\bin\Debug\net8.0-windows\Black Jack.dll
+C:\Users\Ryan\Downloads\black-jack\Black Jack\bin\Debug\net8.0-windows\Black Jack.pdb
+C:\Users\Ryan\Downloads\black-jack\Black Jack\obj\Debug\net8.0-windows\Black_Jack.Form1.resources
+C:\Users\Ryan\Downloads\black-jack\Black Jack\obj\Debug\net8.0-windows\Black Jack.csproj.GenerateResource.cache
+C:\Users\Ryan\Downloads\black-jack\Black Jack\obj\Debug\net8.0-windows\Black Jack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\Downloads\black-jack\Black Jack\obj\Debug\net8.0-windows\Black Jack.AssemblyInfoInputs.cache
+C:\Users\Ryan\Downloads\black-jack\Black Jack\obj\Debug\net8.0-windows\Black Jack.AssemblyInfo.cs
+C:\Users\Ryan\Downloads\black-jack\Black Jack\obj\Debug\net8.0-windows\Black Jack.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Downloads\black-jack\Black Jack\obj\Debug\net8.0-windows\Black Jack.dll
+C:\Users\Ryan\Downloads\black-jack\Black Jack\obj\Debug\net8.0-windows\refint\Black Jack.dll
+C:\Users\Ryan\Downloads\black-jack\Black Jack\obj\Debug\net8.0-windows\Black Jack.pdb
+C:\Users\Ryan\Downloads\black-jack\Black Jack\obj\Debug\net8.0-windows\Black Jack.genruntimeconfig.cache
+C:\Users\Ryan\Downloads\black-jack\Black Jack\obj\Debug\net8.0-windows\ref\Black Jack.dll
+C:\Users\Ryan\Downloads\black-jack\Black Jack\obj\Debug\net8.0-windows\Black_Jack.Properties.Resources.resources
